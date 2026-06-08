@@ -1,0 +1,4005 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319461.826,
+          3117091.509
+        ]
+      },
+      "properties": {
+        "node_id": 294,
+        "total_score": 0.8221656484021569,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319461.826,
+          3117160.168
+        ]
+      },
+      "properties": {
+        "node_id": 293,
+        "total_score": 0.8156862285562946,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319472.826,
+          3117137.168
+        ]
+      },
+      "properties": {
+        "node_id": 283,
+        "total_score": 0.8068721201281381,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319450.826,
+          3117160.168
+        ]
+      },
+      "properties": {
+        "node_id": 303,
+        "total_score": 0.7989748438367775,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319494.826,
+          3117068.509
+        ]
+      },
+      "properties": {
+        "node_id": 262,
+        "total_score": 0.7975501443768618,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319483.826,
+          3117068.509
+        ]
+      },
+      "properties": {
+        "node_id": 273,
+        "total_score": 0.7933475743926182,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319483.826,
+          3117137.168
+        ]
+      },
+      "properties": {
+        "node_id": 272,
+        "total_score": 0.7901892983060509,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319450.826,
+          3117091.509
+        ]
+      },
+      "properties": {
+        "node_id": 304,
+        "total_score": 0.7861468356337529,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319505.826,
+          3117068.509
+        ]
+      },
+      "properties": {
+        "node_id": 251,
+        "total_score": 0.7853637089871309,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319439.826,
+          3117160.168
+        ]
+      },
+      "properties": {
+        "node_id": 312,
+        "total_score": 0.781224069655038,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319472.826,
+          3117068.509
+        ]
+      },
+      "properties": {
+        "node_id": 284,
+        "total_score": 0.779758284612605,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319516.826,
+          3117068.509
+        ]
+      },
+      "properties": {
+        "node_id": 239,
+        "total_score": 0.7724978659780684,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319494.826,
+          3117137.168
+        ]
+      },
+      "properties": {
+        "node_id": 261,
+        "total_score": 0.7719108237017337,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319527.826,
+          3117068.509
+        ]
+      },
+      "properties": {
+        "node_id": 227,
+        "total_score": 0.7592219715124277,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319439.826,
+          3117091.509
+        ]
+      },
+      "properties": {
+        "node_id": 313,
+        "total_score": 0.749412780701352,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319505.826,
+          3117137.168
+        ]
+      },
+      "properties": {
+        "node_id": 250,
+        "total_score": 0.7448734927533457,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319428.826,
+          3117228.827
+        ]
+      },
+      "properties": {
+        "node_id": 320,
+        "total_score": 0.729303903401777,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319516.826,
+          3117137.168
+        ]
+      },
+      "properties": {
+        "node_id": 238,
+        "total_score": 0.7247227809772784,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319439.826,
+          3117228.827
+        ]
+      },
+      "properties": {
+        "node_id": 311,
+        "total_score": 0.7234367498628174,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319428.826,
+          3117160.168
+        ]
+      },
+      "properties": {
+        "node_id": 321,
+        "total_score": 0.7209448357198571,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319417.826,
+          3117228.827
+        ]
+      },
+      "properties": {
+        "node_id": 329,
+        "total_score": 0.7194302066874934,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319450.826,
+          3117228.827
+        ]
+      },
+      "properties": {
+        "node_id": 302,
+        "total_score": 0.7170500993693066,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319406.826,
+          3117228.827
+        ]
+      },
+      "properties": {
+        "node_id": 338,
+        "total_score": 0.7167351028403188,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319395.826,
+          3117228.827
+        ]
+      },
+      "properties": {
+        "node_id": 346,
+        "total_score": 0.7136321227646931,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319428.826,
+          3117091.509
+        ]
+      },
+      "properties": {
+        "node_id": 322,
+        "total_score": 0.7124876235159324,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319461.826,
+          3117228.827
+        ]
+      },
+      "properties": {
+        "node_id": 292,
+        "total_score": 0.7101189870523148,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319527.826,
+          3117137.168
+        ]
+      },
+      "properties": {
+        "node_id": 226,
+        "total_score": 0.704094464142249,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319527.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 228,
+        "total_score": 0.7029291176302681,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319384.826,
+          3117228.827
+        ]
+      },
+      "properties": {
+        "node_id": 354,
+        "total_score": 0.7025351142393206,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319417.826,
+          3117160.168
+        ]
+      },
+      "properties": {
+        "node_id": 330,
+        "total_score": 0.7016518385266497,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319472.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 282,
+        "total_score": 0.7011704299538529,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319538.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 216,
+        "total_score": 0.699404556063857,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319560.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 190,
+        "total_score": 0.6988227377930043,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319538.826,
+          3117068.509
+        ]
+      },
+      "properties": {
+        "node_id": 215,
+        "total_score": 0.6963949985712214,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319549.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 202,
+        "total_score": 0.6954737098431982,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319516.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 240,
+        "total_score": 0.6907283633479689,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319406.826,
+          3117160.168
+        ]
+      },
+      "properties": {
+        "node_id": 339,
+        "total_score": 0.689462792353694,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319483.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 271,
+        "total_score": 0.6853992226879194,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319384.826,
+          3117297.486
+        ]
+      },
+      "properties": {
+        "node_id": 353,
+        "total_score": 0.6834576853511813,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319417.826,
+          3117091.509
+        ]
+      },
+      "properties": {
+        "node_id": 331,
+        "total_score": 0.6831142601384396,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319395.826,
+          3117297.486
+        ]
+      },
+      "properties": {
+        "node_id": 345,
+        "total_score": 0.6782991838910769,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319505.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 252,
+        "total_score": 0.6779888770252547,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319395.826,
+          3117160.168
+        ]
+      },
+      "properties": {
+        "node_id": 347,
+        "total_score": 0.6768753865032571,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319549.826,
+          3117068.509
+        ]
+      },
+      "properties": {
+        "node_id": 201,
+        "total_score": 0.6750658639680162,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319406.826,
+          3117297.486
+        ]
+      },
+      "properties": {
+        "node_id": 337,
+        "total_score": 0.6728391599533101,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319571.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 177,
+        "total_score": 0.6713680371805326,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319461.826,
+          3117297.486
+        ]
+      },
+      "properties": {
+        "node_id": 291,
+        "total_score": 0.6710255902664682,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319450.826,
+          3117297.486
+        ]
+      },
+      "properties": {
+        "node_id": 301,
+        "total_score": 0.6705698704919014,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319373.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 362,
+        "total_score": 0.6700773169464862,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319439.826,
+          3117297.486
+        ]
+      },
+      "properties": {
+        "node_id": 310,
+        "total_score": 0.6697519323838401,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319428.826,
+          3117297.486
+        ]
+      },
+      "properties": {
+        "node_id": 319,
+        "total_score": 0.668579118912066,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319417.826,
+          3117297.486
+        ]
+      },
+      "properties": {
+        "node_id": 328,
+        "total_score": 0.6670616176273483,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319461.826,
+          3117022.85
+        ]
+      },
+      "properties": {
+        "node_id": 295,
+        "total_score": 0.6647503508336609,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319494.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 263,
+        "total_score": 0.6646449734174952,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319373.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 363,
+        "total_score": 0.6636354641832404,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319494.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 260,
+        "total_score": 0.661333688309918,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319406.826,
+          3117091.509
+        ]
+      },
+      "properties": {
+        "node_id": 340,
+        "total_score": 0.6613310298024531,
+        "hop_count": 1,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319560.826,
+          3117068.509
+        ]
+      },
+      "properties": {
+        "node_id": 189,
+        "total_score": 0.6612483400339044,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319472.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 281,
+        "total_score": 0.6599839353480255,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319362.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 370,
+        "total_score": 0.6591282397362455,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319384.826,
+          3117160.168
+        ]
+      },
+      "properties": {
+        "node_id": 355,
+        "total_score": 0.656357172502269,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319461.826,
+          3117366.145
+        ]
+      },
+      "properties": {
+        "node_id": 290,
+        "total_score": 0.6527377043593716,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319483.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 274,
+        "total_score": 0.6506395217464668,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319351.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 378,
+        "total_score": 0.6479216725086713,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319450.826,
+          3117366.145
+        ]
+      },
+      "properties": {
+        "node_id": 300,
+        "total_score": 0.6447720094396195,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319483.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 270,
+        "total_score": 0.6444152772970442,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319362.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 371,
+        "total_score": 0.6438103130719091,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319582.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 164,
+        "total_score": 0.6436628239077538,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319395.826,
+          3117366.145
+        ]
+      },
+      "properties": {
+        "node_id": 344,
+        "total_score": 0.6391002069238548,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319439.826,
+          3117366.145
+        ]
+      },
+      "properties": {
+        "node_id": 309,
+        "total_score": 0.6365357528544708,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319472.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 285,
+        "total_score": 0.6359312795567731,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319538.826,
+          3117137.168
+        ]
+      },
+      "properties": {
+        "node_id": 214,
+        "total_score": 0.6338585381833395,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319571.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 178,
+        "total_score": 0.6331977829883243,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319406.826,
+          3117366.145
+        ]
+      },
+      "properties": {
+        "node_id": 336,
+        "total_score": 0.6331217805874851,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319450.826,
+          3117022.85
+        ]
+      },
+      "properties": {
+        "node_id": 305,
+        "total_score": 0.6330927915211388,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319373.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 361,
+        "total_score": 0.6327339266847347,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319384.826,
+          3117366.145
+        ]
+      },
+      "properties": {
+        "node_id": 352,
+        "total_score": 0.632334864481719,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319362.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 369,
+        "total_score": 0.6301881807668227,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319582.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 165,
+        "total_score": 0.6296576573019946,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319505.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 249,
+        "total_score": 0.6290091758279819,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319340.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 386,
+        "total_score": 0.6288517220498178,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319560.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 191,
+        "total_score": 0.6288407042007165,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319472.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 280,
+        "total_score": 0.6284675533921967,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319494.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 259,
+        "total_score": 0.6284348217232076,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319428.826,
+          3117366.145
+        ]
+      },
+      "properties": {
+        "node_id": 318,
+        "total_score": 0.6280319944077348,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319351.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 377,
+        "total_score": 0.6274136789515488,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319417.826,
+          3117366.145
+        ]
+      },
+      "properties": {
+        "node_id": 327,
+        "total_score": 0.6268921759430213,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319593.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 152,
+        "total_score": 0.6258702790744132,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319571.826,
+          3117068.509
+        ]
+      },
+      "properties": {
+        "node_id": 176,
+        "total_score": 0.6244674868507947,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319351.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 379,
+        "total_score": 0.6237467167644732,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319593.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 151,
+        "total_score": 0.6233721488583395,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319604.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 139,
+        "total_score": 0.6218573190172884,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319483.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 269,
+        "total_score": 0.6206146213505825,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319329.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 394,
+        "total_score": 0.6171927637455078,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319494.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 258,
+        "total_score": 0.6124646933650411,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319318.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 402,
+        "total_score": 0.6053365498414831,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319549.826,
+          3117137.168
+        ]
+      },
+      "properties": {
+        "node_id": 200,
+        "total_score": 0.6050767153312984,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319340.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 385,
+        "total_score": 0.6042948281554021,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319516.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 237,
+        "total_score": 0.6037294832107156,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319604.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 138,
+        "total_score": 0.6029007618692613,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319615.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 126,
+        "total_score": 0.6023848287392826,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319549.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 203,
+        "total_score": 0.6013085324604297,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319329.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 393,
+        "total_score": 0.6010974433769919,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319439.826,
+          3117022.85
+        ]
+      },
+      "properties": {
+        "node_id": 314,
+        "total_score": 0.6005780253177763,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319461.826,
+          3117434.804
+        ]
+      },
+      "properties": {
+        "node_id": 289,
+        "total_score": 0.5990577402109728,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319395.826,
+          3117091.509
+        ]
+      },
+      "properties": {
+        "node_id": 348,
+        "total_score": 0.5978603165170844,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319318.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 401,
+        "total_score": 0.5977058888054039,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319505.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 247,
+        "total_score": 0.5963938096486019,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319373.826,
+          3117137.168
+        ]
+      },
+      "properties": {
+        "node_id": 364,
+        "total_score": 0.5960458553608229,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319340.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 387,
+        "total_score": 0.595851887415503,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319582.826,
+          3117068.509
+        ]
+      },
+      "properties": {
+        "node_id": 163,
+        "total_score": 0.5952537225981409,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319307.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 409,
+        "total_score": 0.5941314301102192,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319285.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 426,
+        "total_score": 0.5941043299053161,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319307.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 410,
+        "total_score": 0.5933005890201356,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319384.826,
+          3117434.804
+        ]
+      },
+      "properties": {
+        "node_id": 351,
+        "total_score": 0.592719035294794,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319285.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 427,
+        "total_score": 0.5916338788407969,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319450.826,
+          3117434.804
+        ]
+      },
+      "properties": {
+        "node_id": 299,
+        "total_score": 0.5911613263966782,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319296.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 417,
+        "total_score": 0.5903850177017502,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319472.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 279,
+        "total_score": 0.590028560286959,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319483.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 268,
+        "total_score": 0.5898524128110085,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319494.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 257,
+        "total_score": 0.5894441831277932,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319296.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 418,
+        "total_score": 0.5887281171205456,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319538.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 217,
+        "total_score": 0.5887128800921776,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319516.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 235,
+        "total_score": 0.5876610528965077,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319395.826,
+          3117434.804
+        ]
+      },
+      "properties": {
+        "node_id": 343,
+        "total_score": 0.5866196790743617,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319560.826,
+          3117137.168
+        ]
+      },
+      "properties": {
+        "node_id": 188,
+        "total_score": 0.583773314787776,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319505.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 248,
+        "total_score": 0.5835905107963184,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319439.826,
+          3117434.804
+        ]
+      },
+      "properties": {
+        "node_id": 308,
+        "total_score": 0.5830491887966863,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319626.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 113,
+        "total_score": 0.5827258359785278,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319274.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 435,
+        "total_score": 0.5824181246732129,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319615.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 125,
+        "total_score": 0.5822753067591904,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319373.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 360,
+        "total_score": 0.5813391196809987,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319505.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 246,
+        "total_score": 0.5811782619261172,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319406.826,
+          3117434.804
+        ]
+      },
+      "properties": {
+        "node_id": 335,
+        "total_score": 0.5803185576506964,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319516.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 234,
+        "total_score": 0.5803112221965671,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319362.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 368,
+        "total_score": 0.5792932658952255,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319527.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 222,
+        "total_score": 0.5792190653851808,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319274.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 436,
+        "total_score": 0.5791499428926278,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319527.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 223,
+        "total_score": 0.5786456966078731,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319527.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 225,
+        "total_score": 0.5779253709953869,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319538.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 210,
+        "total_score": 0.577905641368768,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319351.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 376,
+        "total_score": 0.5770505098506735,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319549.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 198,
+        "total_score": 0.5763754647526368,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319384.826,
+          3117091.509
+        ]
+      },
+      "properties": {
+        "node_id": 356,
+        "total_score": 0.576043417294676,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319527.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 229,
+        "total_score": 0.5757758385402041,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319329.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 395,
+        "total_score": 0.5754091901413416,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319428.826,
+          3117434.804
+        ]
+      },
+      "properties": {
+        "node_id": 317,
+        "total_score": 0.574722878279278,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319560.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 186,
+        "total_score": 0.5746336418030733,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319362.826,
+          3117137.168
+        ]
+      },
+      "properties": {
+        "node_id": 372,
+        "total_score": 0.5745937661631826,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319417.826,
+          3117434.804
+        ]
+      },
+      "properties": {
+        "node_id": 326,
+        "total_score": 0.5738117231597251,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319593.826,
+          3117068.509
+        ]
+      },
+      "properties": {
+        "node_id": 150,
+        "total_score": 0.5736219217731748,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319263.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 443,
+        "total_score": 0.5705902701370842,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319428.826,
+          3117022.85
+        ]
+      },
+      "properties": {
+        "node_id": 323,
+        "total_score": 0.5673042916570088,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319340.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 384,
+        "total_score": 0.5669902750346985,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319516.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 236,
+        "total_score": 0.5668158596375805,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319263.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 444,
+        "total_score": 0.5665427251236254,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319252.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 451,
+        "total_score": 0.5662570106302232,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319329.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 392,
+        "total_score": 0.5643735727986093,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319637.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 101,
+        "total_score": 0.5628975953022667,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319516.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 241,
+        "total_score": 0.562474827141742,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319241.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 455,
+        "total_score": 0.5617998384314322,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319538.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 211,
+        "total_score": 0.5617283844589869,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319318.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 400,
+        "total_score": 0.5615802160412886,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319252.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 452,
+        "total_score": 0.5614503629734355,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319285.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 425,
+        "total_score": 0.5598376122009521,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319307.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 408,
+        "total_score": 0.5586172248342052,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319571.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 173,
+        "total_score": 0.557431554659353,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319230.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 463,
+        "total_score": 0.5572268501377702,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319241.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 456,
+        "total_score": 0.5562556887244403,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319296.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 416,
+        "total_score": 0.5554916452155363,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319351.826,
+          3117137.168
+        ]
+      },
+      "properties": {
+        "node_id": 380,
+        "total_score": 0.5530724031953497,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319219.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 471,
+        "total_score": 0.5525456363161332,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319538.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 213,
+        "total_score": 0.5516575229934524,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319527.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 224,
+        "total_score": 0.5496665768474446,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319472.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 278,
+        "total_score": 0.5488345468726636,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319505.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 253,
+        "total_score": 0.5487892458180541,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319274.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 434,
+        "total_score": 0.5487807080877389,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319483.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 267,
+        "total_score": 0.5486901630235167,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319494.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 256,
+        "total_score": 0.5483553758794859,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319208.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 479,
+        "total_score": 0.5477632957401265,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319571.826,
+          3117137.168
+        ]
+      },
+      "properties": {
+        "node_id": 175,
+        "total_score": 0.547108457711084,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319549.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 199,
+        "total_score": 0.5445451650977547,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319604.826,
+          3117068.509
+        ]
+      },
+      "properties": {
+        "node_id": 137,
+        "total_score": 0.5443282462297523,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319648.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 90,
+        "total_score": 0.5429158457395054,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319197.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 489,
+        "total_score": 0.5428864539433924,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319373.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 359,
+        "total_score": 0.5416604699642058,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319318.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 403,
+        "total_score": 0.5416098889233671,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319615.826,
+          3116862.532
+        ]
+      },
+      "properties": {
+        "node_id": 127,
+        "total_score": 0.5412733251156431,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319417.826,
+          3117022.85
+        ]
+      },
+      "properties": {
+        "node_id": 332,
+        "total_score": 0.5410112670581104,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319626.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 112,
+        "total_score": 0.5406846843728509,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319582.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 161,
+        "total_score": 0.5400294918214353,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319362.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 367,
+        "total_score": 0.5399566533690405,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319230.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 464,
+        "total_score": 0.5384676780999943,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319186.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 499,
+        "total_score": 0.537921284741133,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319626.826,
+          3116862.532
+        ]
+      },
+      "properties": {
+        "node_id": 114,
+        "total_score": 0.5377269253122959,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319263.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 442,
+        "total_score": 0.5375819889018418,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319604.826,
+          3116862.532
+        ]
+      },
+      "properties": {
+        "node_id": 140,
+        "total_score": 0.5370033961907057,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319560.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 187,
+        "total_score": 0.5347330378055686,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319494.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 264,
+        "total_score": 0.5347014151303422,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319560.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 185,
+        "total_score": 0.5340929069541172,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319219.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 472,
+        "total_score": 0.533094421808626,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319175.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 509,
+        "total_score": 0.5328735336245,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319593.826,
+          3116862.532
+        ]
+      },
+      "properties": {
+        "node_id": 153,
+        "total_score": 0.5325323974691367,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319538.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 212,
+        "total_score": 0.5321615856423568,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319461.826,
+          3116954.191
+        ]
+      },
+      "properties": {
+        "node_id": 296,
+        "total_score": 0.532151249687462,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319505.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 245,
+        "total_score": 0.5318705674958768,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319516.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 233,
+        "total_score": 0.5311579383683681,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319527.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 221,
+        "total_score": 0.5302587797217257,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319593.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 148,
+        "total_score": 0.5300609730784258,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319351.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 375,
+        "total_score": 0.5297493554637198,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319538.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 209,
+        "total_score": 0.5291752604937002,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319307.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 411,
+        "total_score": 0.528514260933681,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319549.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 197,
+        "total_score": 0.5279099499272508,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319582.826,
+          3116862.532
+        ]
+      },
+      "properties": {
+        "node_id": 166,
+        "total_score": 0.5278482596334853,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319208.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 480,
+        "total_score": 0.5276432111849535,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319461.826,
+          3117503.463
+        ]
+      },
+      "properties": {
+        "node_id": 288,
+        "total_score": 0.5266578352340634,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319450.826,
+          3117503.463
+        ]
+      },
+      "properties": {
+        "node_id": 298,
+        "total_score": 0.5264342998593345,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319637.826,
+          3116862.532
+        ]
+      },
+      "properties": {
+        "node_id": 102,
+        "total_score": 0.5263757343365548,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319439.826,
+          3117503.463
+        ]
+      },
+      "properties": {
+        "node_id": 307,
+        "total_score": 0.5260314630776306,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319131.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 550,
+        "total_score": 0.5259161838768673,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319252.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 450,
+        "total_score": 0.5255419047362315,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319428.826,
+          3117503.463
+        ]
+      },
+      "properties": {
+        "node_id": 316,
+        "total_score": 0.5254502153778815,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319571.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 172,
+        "total_score": 0.5248460546276807,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319417.826,
+          3117503.463
+        ]
+      },
+      "properties": {
+        "node_id": 325,
+        "total_score": 0.5246918312799791,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319142.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 540,
+        "total_score": 0.5241337694623898,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319659.826,
+          3116915.0
+        ]
+      },
+      "properties": {
+        "node_id": 81,
+        "total_score": 0.5238005986923533,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319406.826,
+          3117503.463
+        ]
+      },
+      "properties": {
+        "node_id": 334,
+        "total_score": 0.5237579555428507,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319571.826,
+          3116862.532
+        ]
+      },
+      "properties": {
+        "node_id": 179,
+        "total_score": 0.5229388437433568,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319395.826,
+          3117503.463
+        ]
+      },
+      "properties": {
+        "node_id": 342,
+        "total_score": 0.5226505856910499,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319153.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 530,
+        "total_score": 0.52230797039305,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319197.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 490,
+        "total_score": 0.5221206180806206,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319241.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 454,
+        "total_score": 0.5217064864648759,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319384.826,
+          3117503.463
+        ]
+      },
+      "properties": {
+        "node_id": 350,
+        "total_score": 0.521372051283405,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319164.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 520,
+        "total_score": 0.5204352067875976,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319164.826,
+          3117343.145
+        ]
+      },
+      "properties": {
+        "node_id": 519,
+        "total_score": 0.5201214235121913,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319340.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 383,
+        "total_score": 0.5200820920883487,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319604.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 135,
+        "total_score": 0.5199055506840532,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319637.826,
+          3116999.85
+        ]
+      },
+      "properties": {
+        "node_id": 100,
+        "total_score": 0.5198141206034269,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319175.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 510,
+        "total_score": 0.5185115279084198,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319560.826,
+          3116862.532
+        ]
+      },
+      "properties": {
+        "node_id": 192,
+        "total_score": 0.5177921089826482,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319186.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 500,
+        "total_score": 0.5165325684203877,
+        "hop_count": 4,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319582.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 160,
+        "total_score": 0.5154272132672095,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319296.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 419,
+        "total_score": 0.5153064401370236,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319615.826,
+          3117068.509
+        ]
+      },
+      "properties": {
+        "node_id": 124,
+        "total_score": 0.5150072836620843,
+        "hop_count": 2,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319593.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 147,
+        "total_score": 0.513467352421686,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319483.826,
+          3116931.191
+        ]
+      },
+      "properties": {
+        "node_id": 275,
+        "total_score": 0.5125703649107948,
+        "hop_count": 3,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319120.826,
+          3117274.486
+        ]
+      },
+      "properties": {
+        "node_id": 560,
+        "total_score": 0.5116980096814667,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319329.826,
+          3117480.463
+        ]
+      },
+      "properties": {
+        "node_id": 391,
+        "total_score": 0.5102528293055972,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319230.826,
+          3117411.804
+        ]
+      },
+      "properties": {
+        "node_id": 462,
+        "total_score": 0.5101215610381777,
+        "hop_count": 5,
+        "reachable": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          319285.826,
+          3117205.827
+        ]
+      },
+      "properties": {
+        "node_id": 428,
+        "total_score": 0.509628282446706,
+        "hop_count": 3,
+        "reachable": true
+      }
+    }
+  ]
+}
